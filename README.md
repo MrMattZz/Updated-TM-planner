@@ -1,3 +1,3 @@
 # OPTC TM Planner Alternative
 
-Free updated and better version.
+Work in progress.
